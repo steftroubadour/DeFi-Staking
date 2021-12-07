@@ -18,8 +18,9 @@
 ![](images/DeFiStaking.png)
 
 ### Tests
-Tests are ONLY passing in Ganache environment, because of modifications of block timestamp in Ganache.
-See : [https://medium.com/sablier/writing-accurate-time-dependent-truffle-tests-8febc827acb5
+Les tests ne passent qu'environnement local avec Ganache à cause de l'utilisation de fonctionnalité propres à Ganache sur la manipulation du timestamp de Block.
+
+Voir : [https://medium.com/sablier/writing-accurate-time-dependent-truffle-tests-8febc827acb5
 ](https://medium.com/sablier/writing-accurate-time-dependent-truffle-tests-8febc827acb5)
 
 `truffle test --network development`
