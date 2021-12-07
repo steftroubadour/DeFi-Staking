@@ -10,6 +10,7 @@
     "web3": "^1.6.1"
   },
   "dependencies": {
-    "@chainlink/contracts": "^0.2.2"
+    "@chainlink/contracts": "^0.2.2",
+    "gh-pages": "^3.2.3"
   }
 }
