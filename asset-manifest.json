@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/steftroubadour/DeFi-Staking/static/css/main.c9612da4.chunk.css",
+    "main.js": "/steftroubadour/DeFi-Staking/static/js/main.d0481e79.chunk.js",
+    "main.js.map": "/steftroubadour/DeFi-Staking/static/js/main.d0481e79.chunk.js.map",
+    "runtime-main.js": "/steftroubadour/DeFi-Staking/static/js/runtime-main.8021f661.js",
+    "runtime-main.js.map": "/steftroubadour/DeFi-Staking/static/js/runtime-main.8021f661.js.map",
+    "static/css/2.fa43bc9e.chunk.css": "/steftroubadour/DeFi-Staking/static/css/2.fa43bc9e.chunk.css",
+    "static/js/2.025e7f16.chunk.js": "/steftroubadour/DeFi-Staking/static/js/2.025e7f16.chunk.js",
+    "static/js/2.025e7f16.chunk.js.map": "/steftroubadour/DeFi-Staking/static/js/2.025e7f16.chunk.js.map",
+    "index.html": "/steftroubadour/DeFi-Staking/index.html",
+    "precache-manifest.76d9a0c1fa86aec10ec1a013181b165a.js": "/steftroubadour/DeFi-Staking/precache-manifest.76d9a0c1fa86aec10ec1a013181b165a.js",
+    "service-worker.js": "/steftroubadour/DeFi-Staking/service-worker.js",
+    "static/css/2.fa43bc9e.chunk.css.map": "/steftroubadour/DeFi-Staking/static/css/2.fa43bc9e.chunk.css.map",
+    "static/css/main.c9612da4.chunk.css.map": "/steftroubadour/DeFi-Staking/static/css/main.c9612da4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8021f661.js",
+    "static/css/2.fa43bc9e.chunk.css",
+    "static/js/2.025e7f16.chunk.js",
+    "static/css/main.c9612da4.chunk.css",
+    "static/js/main.d0481e79.chunk.js"
+  ]
+}
