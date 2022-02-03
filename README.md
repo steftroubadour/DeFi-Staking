@@ -1,30 +1,27 @@
-# ⚡️ Défi : Staking
+# ⚡️ DeFi - Staking challenge
 
-## Les spécifications fonctionnelles :
-### Les spécifications fonctionnelles :
-- Stake son token ERC20
-- Unstake ses tokens
-- Créer son propre token de récompense ou utiliser l’ETH ou un autre token ERC20 (Dai par exemple)
-- La quantité de la récompense doit être proportionnelle à la valeur bloquées sur le smart contract
+## Functional specifications :
+- Stake its ERC20 token  
+- Unstake its tokens  
+- Create your own reward token or use ETH or another ERC20 token (Dai for example)  
+- The amount of the reward must be proportional to the value locked on the smart contract  
 
-### Les exigences :
+## requirements :
+- Using the Chainlink pice feeds oracles  
 
-- Utilisation de l’oracle Chainlink
-
-## Résultat
-
+## result
 [https://github.com/steftroubadour/DeFi-Staking](https://github.com/steftroubadour/DeFi-Staking)
 
-### Sur GitHub Pages
+## online Demo on GitHub Pages
 https://steftroubadour.github.io/DeFi-Staking/
 
-### vue admin
+## admin view
 ![](images/DeFiStaking.png)
 
-### Tests
-Les tests ne passent qu'environnement local avec Ganache à cause de l'utilisation de fonctionnalité propres à Ganache sur la manipulation du timestamp de Block.
+## Tests
+Tests only pass with Ganache because of the use of Ganache specific functionality on the manipulation of Block's timestamp.
 
 Voir : [https://medium.com/sablier/writing-accurate-time-dependent-truffle-tests-8febc827acb5
 ](https://medium.com/sablier/writing-accurate-time-dependent-truffle-tests-8febc827acb5)
 
-`truffle test --network development`
+`truffle test`
